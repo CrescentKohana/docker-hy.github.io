@@ -1,3 +1,5 @@
-# [Course material](https://docker-hy.github.io)
+# DevOps with Docker Exercise 3.1
 
-If you have any questions send email jami.kousa@helsinki.fi or send message in course telegram group.
+Deployed to Heroku: [docker-hy-luukuton.herokuapp.co](https://docker-hy-luukuton.herokuapp.com)
+
+Image on DockerHub: [hub.docker.com/r/luukuton/docker-hy](https://hub.docker.com/r/luukuton/docker-hy)
